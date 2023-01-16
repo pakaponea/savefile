@@ -1,4 +1,4 @@
-git clone <link>
+git clone <link> 
 cd <git clone folder>
 git add <file>
 git status
